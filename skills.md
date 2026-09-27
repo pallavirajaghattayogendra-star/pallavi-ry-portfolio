@@ -15,3 +15,4 @@
 - Java Programming
 - Data Structures and Algorithms
 - Git and GitHub
+I am continuously improving my programming and problem-solving skills.
